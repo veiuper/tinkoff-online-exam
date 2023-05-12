@@ -1,4 +1,4 @@
-package org.tinkoffonlineexam.task2;
+package org.tinkoffonlineexam.task6;
 
 public class Main {
 }
